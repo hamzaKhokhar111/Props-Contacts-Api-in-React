@@ -1,0 +1,12 @@
+what is Props ??
+>>props stands for properties.
+>>Props are arguments passed into React components.
+>> used for passing data from one component to another. 
+
+what is Contact Api ??
+2. Introduction
+This section is non-normative.
+
+The Contacts API defines a high-level interface to provide access to the user's unified contact information, such as names, addresses and other contact information.
+
+The API itself is agnostic of any underlying address book sources and data formats
